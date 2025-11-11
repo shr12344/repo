@@ -1,0 +1,8 @@
+2025-11-03 19:38:41.452974 - admin: Logged In
+2025-11-03 19:38:41.469739 - user1: Viewed Report
+2025-11-03 20:18:07.710565 - admin: Logged In
+2025-11-03 20:18:07.710565 - user1: Viewed Report
+2025-11-08 21:15:23.066040-admin:logged in2025-11-08 21:15:23.069904-user1:viewed report2025-11-08 21:16:19.452140-admin:logged in
+2025-11-08 21:16:19.453533-user1:viewed report
+2025-11-08 21:18:33.331917 - admin: Logged In
+2025-11-08 21:18:33.331917 - user1: Viewed Report
